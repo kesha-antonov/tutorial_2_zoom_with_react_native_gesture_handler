@@ -36,6 +36,7 @@ function App () {
         renderImage={renderImage}
         imageWidth={deviceWidth}
         imageHeight={500}
+        inFlatList={false}
       />
     </SafeAreaView>
   )
